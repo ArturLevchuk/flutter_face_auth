@@ -135,6 +135,7 @@ class _HomePageState extends State<HomePage> {
 
     final List<Face> faces = await faceDetector.processImage(inputImage);
 
+
     log("Faces detected: ${faces.length}");
 
     bool b = false;

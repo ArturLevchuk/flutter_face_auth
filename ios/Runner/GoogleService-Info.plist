@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDWHZh7ij22BCitsSWA-RqDi1lG_K2hZEU</string>
+	<string>AIzaSyAdH81-oZK9SSX-x6jPNqGX25b06YS47to</string>
 	<key>GCM_SENDER_ID</key>
-	<string>255533361884</string>
+	<string>765844353524</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.faceAuth</string>
 	<key>PROJECT_ID</key>
-	<string>face-auth-flutter-80dac</string>
+	<string>ai-face-regonition</string>
 	<key>STORAGE_BUCKET</key>
-	<string>face-auth-flutter-80dac.appspot.com</string>
+	<string>ai-face-regonition.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:255533361884:ios:7fc306c9f078ec99fde219</string>
+	<string>1:765844353524:ios:0d9cb4771a8e5188f089a1</string>
 </dict>
 </plist>

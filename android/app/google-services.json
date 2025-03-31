@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "255533361884",
-    "project_id": "face-auth-flutter-80dac",
-    "storage_bucket": "face-auth-flutter-80dac.appspot.com"
+    "project_number": "765844353524",
+    "project_id": "ai-face-regonition",
+    "storage_bucket": "ai-face-regonition.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:255533361884:android:76c7f5e9b8bc8be1fde219",
+        "mobilesdk_app_id": "1:765844353524:android:a1428edf64c80d58f089a1",
         "android_client_info": {
           "package_name": "com.example.face_auth"
         }
@@ -15,7 +15,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBZlUTZyoSyZq4m5Fs-qOycznIzQTtuP6c"
+          "current_key": "AIzaSyC9Xvvw_1hnz7eruhKcMpmR2SXGBex_kDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765844353524:android:acec90a1c6e324e8f089a1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_face_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Xvvw_1hnz7eruhKcMpmR2SXGBex_kDs"
         }
       ],
       "services": {
